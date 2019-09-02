@@ -4,7 +4,7 @@
 
 # instaclone
 
-App developed in React Native to handle with images and load first small and blurry image before the real image
+App developed in React Native with infinity scroll and refresing on swipe down list and to handle with images and load first small and blurry image before the real image
 
 # JSON-SERVER
 

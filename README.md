@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgsafe.org/c8/c80c7d3036.gif">
+</p>
+
 # instaclone
 
 App developed in React Native 

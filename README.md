@@ -4,7 +4,7 @@
 
 # instaclone
 
-App developed in React Native 
+App developed in React Native to handle with images and load first small and blurry image before the real image
 
 # JSON-SERVER
 
